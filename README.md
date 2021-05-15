@@ -16,4 +16,4 @@ odaka_increased_class_edit3.csv: Dataset of 2011 Tohoku-oki tsunami measured at 
 
 config_g6_300grid_j2_gs_round.ini: Configuration file of the forward model used for production of the training datasets and inversion.
 
-GS_calculation.xlsx: Detailed calculation of measured grain-size distribution from Odaka region, Japan
+GS_calculation.xlsx: Detailed calculation of measured grain-size distribution from Odaka region, Japan.
