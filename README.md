@@ -1,5 +1,5 @@
 # Odaka_DNN_inverse_2011_tsunami
-1.0
+# Version 1.0
 This is a code for performing inverse analysis of tsunami deposits using deep-learning neural network. The forward model fittnuss produces datasets of the thickness distribution of tsunami deposits with random initial conditions, and DNN constructed with tensorflow and keras learns the relation between initial conditions and depositional features. Then, the trained DNN model works as the inverse model for ancient or modern tsunami deposits. See details in Mitra et al., (2020) and Naruse and Abe (2017).  
 
 Explanation of files Version 1.0:
