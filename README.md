@@ -12,7 +12,7 @@ start_param_random_5000_j2_odaka_round_2200.csv: teacher data. Initial condition
 
 eta_5000_g6_300grid_j2_odaka_round_2200.csv: training and test data produced by the forward model. This file is too large to store in GitHub, so that it is only available from Zenodo repository.
 
-odaka_increased_class_edit3.csv: Data of 2011 Tohoku-oki tsunami measured at the Odaka region, Japan. Volume-per-unit-area of 5 grain size classes were recorded.
+odaka_increased_class_edit3.csv: Dataset of 2011 Tohoku-oki tsunami measured at the Odaka region, Japan. Volume-per-unit-area of 5 grain size classes were recorded.
 
 config_g6_300grid_j2_gs_round.ini: Configuration file of the forward model used for production of the training datasets and inversion.
 
